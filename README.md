@@ -1,16 +1,39 @@
-## Hi there 👋
+Here's the updated Markdown with a focus on **Machine Learning (ML)**:  
 
-<!--
-**HelithaNimnaka/HelithaNimnaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```markdown
+# Hi there, I'm Helitha Nimnaka! 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 I’m currently working on  
+- Building **AI & Machine Learning models** 🤖  
+- Contributing to **Open Source Projects**  
+
+## 🌱 I’m currently learning  
+- **Deep Learning** (TensorFlow & PyTorch) 🧠  
+- **Computer Vision & NLP** 📸🗣  
+- **MLOps & Model Deployment** 🚀  
+
+## 👯 I’m looking to collaborate on  
+- AI/ML Research Projects  
+- Open Source AI tools  
+
+## 🤔 I’m looking for help with  
+- Optimizing ML models for performance & scalability  
+- Deploying ML models efficiently  
+
+
+## 📫 How to reach me  
+📧 **Email**: helithanimnaka@gmail.com 
+💼 **LinkedIn**: [linkedin.com/in/HelithaNimnaka](https://www.linkedin.com/in/helitha-nimnaka-b9316a231/)  
+
+## 😄 Pronouns  
+He/Him  
+
+## ⚡ Fun fact  
+I love experimenting with AI models and training them to generate memes! 😆🤖  
+
+---
+
+✨ _Feel free to connect and collaborate!_ 🚀  
+```
