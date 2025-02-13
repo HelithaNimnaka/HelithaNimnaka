@@ -1,7 +1,4 @@
-Here's the updated Markdown with a focus on **Machine Learning (ML)**:  
-
-```markdown
-# Hi there, I'm Helitha Nimnaka! 👋
+Hi there, I'm Helitha Nimnaka! 👋
 
 Welcome to my GitHub profile! 🚀  
 
