@@ -1,4 +1,4 @@
-Hi there, I'm Helitha Nimnaka! 👋
+# Hi there, I'm Helitha Nimnaka! 👋
 
 Welcome to my GitHub profile! 🚀  
 
@@ -31,6 +31,4 @@ He/Him
 I love experimenting with AI models and training them to generate memes! 😆🤖  
 
 ---
-
 ✨ _Feel free to connect and collaborate!_ 🚀  
-```
