@@ -9,7 +9,8 @@ Welcome to my GitHub profile! 🚀
 ## 🌱 I’m currently learning  
 - **Deep Learning** (TensorFlow & PyTorch) 🧠  
 - **Computer Vision & NLP** 📸🗣  
-- **MLOps & Model Deployment** 🚀  
+- **MLOps & Model Deployment** 🚀
+- **Model Compression** ⚡
 
 ## 👯 I’m looking to collaborate on  
 - AI/ML Research Projects  
