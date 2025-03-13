@@ -29,7 +29,7 @@ Welcome to my GitHub profile! 🚀
 He/Him  
 
 ## ⚡ Fun fact  
-I love experimenting with AI models and training them to generate memes! 😆🤖  
+I love using AI tools to visualize how ancient places looked in their time! 😆🏛️🤖
 
 ---
 ✨ _Feel free to connect and collaborate!_ 🚀  
