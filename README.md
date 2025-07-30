@@ -22,7 +22,7 @@ Welcome to my GitHub profile! 🚀
 
 
 ## 📫 How to reach me  
-📧 **Email**: helithanimnaka@gmail.com 
+📧 **Email**: helithanimnakakw@gmail.com 
 💼 **LinkedIn**: [linkedin.com/in/HelithaNimnaka](https://www.linkedin.com/in/helitha-nimnaka-b9316a231/)  
 
 ## 😄 Pronouns  
