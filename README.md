@@ -29,7 +29,7 @@ Welcome to my GitHub profile! 🚀
 He/Him  
 
 ## ⚡ Fun fact  
-I love using AI tools to visualize how ancient places looked in their time! 😆🏛️🤖
+I love testing live AI voice models just to see how real they can sound 🧠🎧🤖
 
 ---
 ✨ _Feel free to connect and collaborate!_ 🚀  
