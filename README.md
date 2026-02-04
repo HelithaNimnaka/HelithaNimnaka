@@ -3,23 +3,17 @@
 Welcome to my GitHub profile! 🚀  
 
 ## 🔭 I’m currently working on  
-- Building **AI & Machine Learning models** 🤖  
-- Contributing to **Open Source Projects**  
-
-## 🌱 I’m currently learning  
-- **Deep Learning** (TensorFlow & PyTorch) 🧠  
-- **Computer Vision & NLP** 📸🗣  
-- **MLOps & Model Deployment** 🚀
-- **Model Compression** ⚡
+- **Agentic AI** to improve customer experience in FinTech
+- **AI/ML-driven solutions for wireless communication**
 
 ## 👯 I’m looking to collaborate on  
-- AI/ML Research Projects  
-- Open Source AI tools  
+- AI/ML Research Projects
+- Applied ML for FinTech and Telecom
+- Open-source AI and ML tools
 
-## 🤔 I’m looking for help with  
-- Optimizing ML models for performance & scalability  
-- Deploying ML models efficiently  
-
+## 📚 Research Interests
+- Agentic AI & autonomous systems
+- AI/ML for wireless communications
 
 ## 📫 How to reach me  
 📧 **Email**: helithanimnakakw@gmail.com 
@@ -27,9 +21,6 @@ Welcome to my GitHub profile! 🚀
 
 ## 😄 Pronouns  
 He/Him  
-
-## ⚡ Fun fact  
-I love testing live AI voice models just to see how real they can sound 🧠🎧🤖
 
 ---
 ✨ _Feel free to connect and collaborate!_ 🚀  
