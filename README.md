@@ -6,7 +6,7 @@ Welcome to my GitHub profile! 🚀
 - **Agentic AI** to improve customer experience in FinTech
 - **AI/ML-driven solutions for wireless communication**
 
-## 👯 I’m looking to collaborate on  
+## 🤝 I’m looking to collaborate on  
 - AI/ML Research Projects
 - Applied ML for FinTech and Telecom
 - Open-source AI and ML tools
